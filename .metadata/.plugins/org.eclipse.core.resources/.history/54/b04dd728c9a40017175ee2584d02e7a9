@@ -1,0 +1,8 @@
+package pickData.beta;
+
+import java.util.HashMap;
+
+public class Beta {
+	HashMap<String, Integer> betas = new HashMap<String, Integer>();
+	
+}

@@ -1,0 +1,19 @@
+package pickData.beta;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Beta {
+	public static void main(String[] args) {
+		Map<String, Double> betas = new HashMap<String, Double>();
+		betas.put("t13bx", 0.0);
+		betas.put("t13bo", -0.9493);
+		betas.put("t13bk", -1.3525);
+		betas.put("t13bg", 0.8241);
+		betas.put("t13br", 0.0);
+		
+		
+		
+
+	}
+}

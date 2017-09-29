@@ -1,0 +1,3 @@
+2017-09-29 12:34:31,644 ERROR [Worker-11] - System.err - 9월 29, 2017 12:34:31 오후 org.hibernate.eclipse.HibernatePlugin start
+정보: HibernatePlugin Started
+2017-09-29 12:34:31,698 ERROR [Worker-11] - System.err - Warning: NLS unused message: SqlInclusionWizard_GenerateAll in: com.dell.toadext.messages.wizard_messages

@@ -1,0 +1,18 @@
+INDEX VERSION 1.130+/project/03_Src/pickData/.metadata/.plugins/org.eclipse.jdt.core
+3096549606.index
+376525347.index
+951533880.index
+664046766.index
+3573095105.index
+1736774347.index
+1381913691.index
+2362548060.index
+2195425857.index
+876183329.index
+3280996015.index
+1924688026.index
+3495136890.index
+1568363744.index
+3749197377.index
+3298269927.index
+1630048316.index

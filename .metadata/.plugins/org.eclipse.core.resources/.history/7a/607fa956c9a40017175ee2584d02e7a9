@@ -1,0 +1,11 @@
+package pickData.beta;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Beta {
+	Map<String, Integer> betas = new HashMap<String, Integer>();
+	
+	betas.put("", 1);
+	
+}
